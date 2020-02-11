@@ -1,10 +1,9 @@
-CVPR-2015
-=========
+## Image segmentation using fractional gradients- TRW Belief prop 
 
-Software Related to Paper on Image Segmentation Using TRW Belief Propagation based Learning
+Code for the paper on Image Segmentation Using TRW Belief Propagation based Learning
 [Paper](https://arxiv.org/abs/1605.02240)
 
-*If you use the code here **please cite:***\
+*If you use the code here **please cite:***
 <pre>
 @article{acharya2016image,
   title={On image segmentation using fractional gradients-learning model parameters using approximate marginal inference},
